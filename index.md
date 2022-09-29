@@ -1,8 +1,9 @@
 # JC's GitHub Page for CSE 110
 ## Myself as a Person
-Born and raised in **Columbus, Ohio**. I'm fluent in French as I went to preschool for a year there and then went back for 5th and 6th grade.
+Born and raised in **Columbus, Ohio**. However, I did spend one year of preschool, one year of elementary, and middle school in France.
 
-This is a photo of Mont Blanc, the highest mountain in western Europe, that I took with my phone through binoculars during sunset this summer
+This is a photo of Mont Blanc, the highest mountain in western Europe, that I took with my phone through binoculars during sunset this summer.
+
 <img src="/assets/IMG_2648.jpg" alt="Mont Blanc" width="300" height="400"/>
 
 
@@ -11,9 +12,9 @@ I'm currently a second-year CS Major with a Business Minor
 ~~When I'm not questioning why I chose to be a CS Major~~, I'm usually playing tennis, surfing, cooking, or playing Pokemon Go
 
 My top three favorite Pokemon
-1. Ivysaur
-2. Steelix
-3. Rayquaza
+1. ![Ivysaur](assets/Ivysaur.jpg)
+2. ![Steelix](assets/Steelix.png)
+3. ![Rayquaza](assets/Rayquaza.png)
 
 Random Quote from Dublin Airport in Ireland I found entertaining this summer
 > Saying I ran a half marathon is better than saying I tried running a marathon and quit halfway
