@@ -1,6 +1,9 @@
 # JC's GitHub Page for CSE 110
 ## Myself as a Person
-Born and raised in **Columbus, Ohio**
+Born and raised in **Columbus, Ohio**. I'm fluent in French as I went to preschool for a year there and then went back for 5th and 6th grade.
+
+This is a photo of Mont Blanc, the highest mountain in western Europe, that I took with my phone through binoculars during sunset this summer
+![Test](https://github.com/Ahhorse1/ahhorse1.github.io/blob/vscode-ui/assets/IMG_0094.HEIC)
 
 I'm currently a second-year CS Major with a Business Minor
 
