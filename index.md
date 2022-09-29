@@ -12,9 +12,9 @@ I'm currently a second-year CS Major with a Business Minor
 ~~When I'm not questioning why I chose to be a CS Major~~, I'm usually playing tennis, surfing, cooking, or playing Pokemon Go
 
 My top three favorite Pokemon
-1. ![Ivysaur](assets/Ivysaur.jpg)
-2. ![Steelix](assets/Steelix.png)
-3. ![Rayquaza](assets/Rayquaza.png)
+1. ![Ivysaur](assets/IvysaurResized.jpg)
+2. ![Steelix](assets/SteelixResized.png)
+3. ![Rayquaza](assets/RayquazaResized.png)
 
 Random Quote from Dublin Airport in Ireland I found entertaining this summer
 > Saying I ran a half marathon is better than saying I tried running a marathon and quit halfway
