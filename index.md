@@ -3,7 +3,8 @@
 Born and raised in **Columbus, Ohio**. I'm fluent in French as I went to preschool for a year there and then went back for 5th and 6th grade.
 
 This is a photo of Mont Blanc, the highest mountain in western Europe, that I took with my phone through binoculars during sunset this summer
-![Mont Blanc](/assets/IMG_2648.jpg)
+<img src="/assets/IMG_2648.jpg" alt="Mont Blanc" width="300" height="400"/>
+
 
 I'm currently a second-year CS Major with a Business Minor
 
@@ -38,6 +39,5 @@ I enjoy participating in hack-a-thons, capture the flags, or just coding for fun
 hips.setLie(false);
 ```
 
-
-
+![Mont Blanc](/assets/IMG_2648.jpg)
 
