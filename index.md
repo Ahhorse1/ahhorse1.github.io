@@ -1,15 +1,15 @@
 # JC's GitHub Page for CSE 110
 ## Myself as a Person
-Born and raised in **Columbus, Ohio**. However, I did spend one year of preschool, one year of elementary, and one year of middle school in France.
+Born and raised in **Columbus, Ohio**. However, I did spend one year of preschool, elementary, and middle school in France. Hon, Hon, Oui, Oui Baugette.
 
 This is a photo of Mont Blanc, the highest mountain in western Europe, that I took with my phone through binoculars during sunset this summer.
 
 <img src="/assets/IMG_2648.jpg" alt="Mont Blanc" width="300" height="400"/>
 
 
-I'm currently a second-year CS Major with a Business Minor.
+I'm currently a second-year Computer Science Major and planning on doing a Business Minor.
 
-~~When I'm not questioning why I chose to be a CS Major~~, I'm usually playing tennis, surfing, cooking, or playing Pokemon Go.
+~~When I'm not questioning why I chose to be a Computer Science Major~~, I'm usually playing tennis, surfing, cooking, or playing Pokemon Go.
 
 My top three favorite Pokemon
 
@@ -25,7 +25,10 @@ I'm also an aviation enthusiast and enjoy plane spotting commerical aircraft fro
 
 [Flight Tracking Website](flightradar24.com)
 
-Some of my favorite aircraft include
+Some of my favorite aircraft include:
+
+![B747](assets/b747Resized.jpg)![B787](assets/b787Resized.jpg)![a320](assets/a320Resized.jpg)
+
 - B747-400, the Iconic Queen of the Skies
 - B787-800, it's hard to beat wing flex
 - A320-200, an absolute workhorse, the winglets are *chef's kiss* 
@@ -43,9 +46,7 @@ Planes I want to fly on
 [x] A220-200/300
 
 ## Myself as a Programmer
-My first CS Class was AP Computer Science A in 2018 where I learned Java
-
-Since then I've taken at least one CS class every year. I've dabbled in Java, Python, C, C++.
+My first CS Class was AP Computer Science A in 2018 where I learned Java. Since then I've taken at least one CS class every year. I've dabbled in Java, Python, C, C++.
 
 I enjoy participating in hack-a-thons, capture the flags, or just coding for fun.
 My friends and I would always compete under this name in any coding competition. Iykyk.
