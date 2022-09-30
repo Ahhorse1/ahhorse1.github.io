@@ -12,6 +12,7 @@ I'm currently a second-year CS Major with a Business Minor.
 ~~When I'm not questioning why I chose to be a CS Major~~, I'm usually playing tennis, surfing, cooking, or playing Pokemon Go
 
 My top three favorite Pokemon
+
 ![Ivysaur](assets/IvysaurResized.jpg) ![Steelix](assets/SteelixResized.png) ![Rayquaza](assets/RayquazaResized.png)
 1. Ivysaur
 2. Steelix
@@ -50,3 +51,4 @@ My friends and I would always compete under this name in any coding competition.
 ```
 hips.setLie(false);
 ```
+My main motivations for most of my side coding projects have been trying to avoid a paywall, for example I am currently making a chess opening app because I don't want to pay for a chess.com membership
