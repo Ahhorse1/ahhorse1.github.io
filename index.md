@@ -34,16 +34,16 @@ Some of my favorite aircraft include:
 - A320-200, an absolute workhorse, the winglets are *chef's kiss* 
 
 Planes I want to fly on
- [x] B747-400
- [ ] B747-800
- [x] B787-8/9/10
- [ ] B777x
- [ ] A380-800
- [ ] A350-1000
- [ ] A340-400
- [x] A320neo
- [x] A321-200
- [x] A220-200/300
+- [x] B747-400
+- [ ] B747-800
+- [x] B787-8/9/10
+- [ ] B777x
+- [ ] A380-800
+- [ ] A350-1000
+- [ ] A340-400
+- [x] A320neo
+- [x] A321-200
+- [x] A220-200/300
 
 ## Myself as a Programmer
 My first CS Class was AP Computer Science A in 2018 where I learned Java. Since then I've taken at least one CS class every year. I've dabbled in Java, Python, C, C++.
